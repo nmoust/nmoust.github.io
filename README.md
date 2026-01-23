@@ -191,21 +191,7 @@ D-18059 Rostock, Germany
 
 23. *Optical and Dielectric Properties of ZnO - PVA Nanocomposites*, N. Bouropoulos, G.C. Psarras, N. Moustakas, A. Chrissanthakopoulos and S. Baskoutas, Physica Status Solidi A, 205 (2008), 2033-2037. DOI: 10.1002/pssa.200778863
 
-### D. Submitted papers (under review)
-
-1. *Fundamental studies of blue titania under oxygen-free conditions: Color evolution and stability as function of the titania crystal phase*, F. Lorenz, N.G. Moustakas, P.Kuschmitz, I. Shuttleworth, H. Stein, T. Peppel, J. Strunk, Under review in Physica Status Solidi A
-
-### E. Papers under preparation (Tentative titles)
-
-1. *Visible light active hybrid core-shell TiO<sub>2</sub> photocatalysts for the production of hydrocarbons from CO<sub>2</sub> under high-purity conditions*, N.G. Moustakas, P. Naliwajko, M. Dilla, N. Cibura, A.E. Surcus, T.Peppel, F. Katsaros, A.G. Kontos, J. Strunk, P. Falaras.
-
-2. *Highly stable and crystalline mesoporous anatase-TiO<sub>2</sub>2 for photocatalytic CO<sub>2</sub> reduction under high-purity conditions”, A. Papavasiliou, M.Dilla, N.G. Moustakas,  N. Cibura, T. Peppel, J. Strunk, F. Katsaros.
-
-“The activation of small molecules with light”, N.G. Moustakas, A. Papavasileiou, , T. Peppel, J. Strunk, F. Katsaros.
-
-“Reproducibility in chemical synthesis”, N.G. Moustakas, F. Lorenz, M. Klahn, T. Peppel, D. Linke, J. Strunk, M. Beller.
-
-### F. Work presented in national and international conferences.
+### D. Work presented in national and international conferences.
 
 <a id="2007"></a>
 
