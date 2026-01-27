@@ -4,15 +4,15 @@
 
 - [1. Name](#1-Name)
 
-- [2. Current Affiliation and Official Address](#2-current-affiliation-and-official-address)
+- [2. Current affiliation and official address](#2-current-affiliation-and-official-address)
 
 - [3. Academic education](#3-academic-education)
 
 - [4. Profession](#4-profession)
 
-- [5. Honours / Fellowships / Awards / Memberships](#5-honours/-fellowships/-awards/-memberships)
+- [5. Scholarships and awards](#5-scholarships-and-awards)
 
-- [6. Research Interests](#6-research-interests)
+- [6. Research interests](#6-research-interests)
 
 - [7. Publications](#7-publications)
 
@@ -32,11 +32,11 @@ Dr. Nikolaos G. Moustakas
 
 <a id="2-current-affiliation-and-official-address"></a>
 
-## 2. Current Affiliation and Official Address
+## 2. Current affiliation and official address
 
-Senior Scientist (permanent position) at Leibniz Institute for Catalysis (LIKAT)
+Senior Scientist (permanent position) at [Leibniz-Institute for Catalysis (LIKAT)](https://www.catalysis.de/en/)
 
-Department of Catalyst Discovery and Reaction Engineering (Leader: Dr. David Linke)
+[Catalyst Discovery and Reaction Engineering](https://www.catalysis.de/en/research/catalyst-discovery-and-reaction-engineering) (Leader: Dr. David Linke)
 
 High-throughput Technologies Group
 
@@ -48,7 +48,7 @@ D-18059 Rostock, Germany
 
 📧 e-mail: nikolaos.moustakas@catalysis.de
 
-🆔 ORCID: 0000-0002-6242-2167
+🆔 ORCID: [0000-0002-6242-2167](https://orcid.org/0000-0002-6242-2167)
 
 <a id="3-academic_education"></a>
 
@@ -64,21 +64,21 @@ D-18059 Rostock, Germany
 
 ## 4. Profession
 
-- **10/2025 – today**	Senior scientist (permanent position) in the “Catalyst Discovery and Reaction Engineering” Department, High-Throughput Technologies Group at the Leibniz-Institute for Catalysis (LIKAT), Rostock.
+- **10/2025 – today**	Senior scientist (permanent position) in the “[Catalyst Discovery and Reaction Engineering](https://www.catalysis.de/en/research/catalyst-discovery-and-reaction-engineering)” Department, High-Throughput Technologies Group at the [Leibniz-Institute for Catalysis (LIKAT)](https://www.catalysis.de/en/), Rostock.
 
-- **1/2022 – 9/2025**	Post-Doctoral Researcher, Leibniz Institute for Catalysis (LIKAT), Germany, in the project NFDI4Cat: National Research Data Infrastructure for Catalysis-Related Sciences (Nationale Forschungsdateninfrastruktur für Wissenschaften mit Bezug zur Katalyse), funded by Deutsche Forschungsgemeinschaft (DFG) (Supervisor: Dr. D. Linke). *Main role(s) in the project: Co-development and main contributor of a catalysis-specific vocabulary (Voc4Cat).*
+- **1/2022 – 9/2025**	Post-Doctoral Researcher, Leibniz Institute for Catalysis (LIKAT), Germany, in the project [NFDI4Cat](https://nfdi4cat.org/nfdi4cat/en/): National Research Data Infrastructure for Catalysis-Related Sciences (Nationale Forschungsdateninfrastruktur für Wissenschaften mit Bezug zur Katalyse), funded by Deutsche Forschungsgemeinschaft (DFG) (Supervisor: Dr. D. Linke). *Main role(s) in the project: Co-development and main contributor of a catalysis-specific vocabulary ([Voc4Cat](https://nfdi4cat.github.io/voc4cat/))*.
 
 - **2/2020-12/2023**	Post-Doctoral Researcher, Leibniz Institute for Catalysis (LIKAT), Germany, in the project: PRODIGY: Process development in gas-solid photocatalytic CO<sub>2</sub> reduction (PROzessentwicklung in Der Gas-Feststoff PhotokatalYse für die Reduktion von CO<sub>2</sub>), within the funding measure CO<sub>2</sub>-WIN (CO<sub>2</sub> as a sustainable source of carbon – Pathways to industrial utilization) funded by the German Federal Ministry of Education and Research (BMBF - Bundesministerium für Bildung und Forschung) (Supervisor: Prof. Dr. Jennifer Strunk). *Main role(s) in the project: a) Project management, b) evaluation of the performance of the catalysts submitted by project partners in CO<sub>2</sub> photoreduction, c) assisting in preparing the first standard in CO<sub>2</sub> photoreduction (DIN SPEC 91457: Photocatalysis – Determination of product formation in CO<sub>2</sub> reduction and publication #3).*
 
 - **3/2017-1/2020**	PhD student (3 months) and Post-Doctoral Researcher, Leibniz Institute for Catalysis (LIKAT), Germany, in the project PROPHECY: Process concepts for photocatalytic CO<sub>2</sub> reduction combined with Life-Cycle-Analysis (PROzesskonzepte für die PHotokatalytische CO2-Reduktion verbunden mit LifE-CYcle-Analysis), within the funding measure CO<sub>2</sub>-Plus (Coupling of renewable energy for the direct use of CO<sub>2</sub> in the production of chemical substances) funded by the German Federal Ministry of Education and Research (BMBF - Bundesministerium für Bildung und Forschung) (Supervisor: Prof. Dr. Jennifer Strunk). *Main role(s) in the project: a) Project management, b) design, construction, optimization and operation of two high-purity reactors for CO<sub>2</sub>2 photoreduction, c) development of a Standard Operation Procedure (SOP) for reproducibly testing and evaluating photocatalysts.*
 
-- **11/2015 – 2/2016**	Visiting Researcher at the Max-Planck-Institute für Chemical Energy Conversion (MPI-CEC), Mülheim an der Ruhr, Germany, in the group of Prof. Dr. Jennifer Strunk as a part of the Green Talents 2014 award. *Main outcomes of the research stay: a) Received training on how to perform CO<sub>2</sub> photoreduction under high-purity conditions, b) successfully tested photocatalysts developed during my PhD studies in NCSRD.*
+- **11/2015 – 2/2016**	Visiting Researcher at the Max-Planck-Institute für Chemical Energy Conversion (MPI-CEC), Mülheim an der Ruhr, Germany, in the group of Prof. Dr. Jennifer Strunk as a part of the [Green Talents 2014](https://www.greentalents.de/awardees-2014.php) award. *Main outcomes of the research stay: a) Received training on how to perform CO<sub>2</sub> photoreduction under high-purity conditions, b) successfully tested photocatalysts developed during my PhD studies in NCSRD.*
 
 - **1/4/2015-31/1/2016** Research associate, Institute of Nanoscience and Nanotechnology, National Center for Scientific Research (NSCR) Demokritos, Athens, Greece in the project: Development of NEXT GENeration cost efficient automotive CATalysts, FP7-NMP-2011-SMALL-5 (Ε-11683) (NEXT-GEN-CAT) working in the group of Dr. Fotios Katsaros. *Main role(s) in the project: Synthesis and characterization of pure or modified with Cu and / or Fe, TiO2-based photocatalysts.*
 
-<a id="5-professional-certificates"></a>
+<a id="5-scholarships-and-awards"></a>
 
-## 5. Honours / Fellowships / Awards / Memberships
+## 5. Scholarships and awards
 
 - **9/2025**	Member of the German Catalysis Society (GeCATs, Deutsche Gesellschaft für Katalyse).
 
@@ -90,19 +90,19 @@ D-18059 Rostock, Germany
 
 - **2020-**	Member of the Hellenic Society for the Science and Technology of Condensed Matter (HSSTCM).
 
-- **2015**	Second place at the Falling Walls Lab 2015 Greece Competition organized by the Falling Walls Foundation and Goethe-Institut Athen (http://falling-walls.com/lab) with the talk *Breaking the Wall of the Energy Crisis*.
+- **2015**	Second place at the [Falling Walls Lab 2015 Greece Competition](https://www.daad.gr/files/2022/10/newsletter-icathen-nov2015dt.pdf)  organized by the [Falling Walls Foundation](http://falling-walls.com/lab) and Goethe-Institut Athen with the talk *Breaking the Wall of the Energy Crisis*.
 
-- **2014**    One of the 25 international winners of the *Green Talents 2014: International Forum for High Potentials in Sustainable Development* Competition (http://www.greentalents.de/) organized by the German Federal Ministry of Education and Research (BMBF). Prize included a fully funded 3-months research stay in Germany. 
+- **2014**    One of the 25 international winners of the *[Green Talents 2014](https://www.greentalents.de/): International Forum for High Potentials in Sustainable Development* Competition organized by the German Federal Ministry of Education and Research (BMBF). Prize included a fully funded 3-months research stay in Germany. 
 
-- **2014** 	Winner of the 2014 Famelab Greece National Science Communication Competition and representative of Greece in the International Famelab Competition 2014 in Cheltenham, UK.
+- **2014** 	Winner of the [2014 Famelab Greece](https://www.britishcouncil.gr/en/events/famelab-2014) National Science Communication Competition and representative of Greece in the International Famelab Competition 2014 in Cheltenham, UK.
 
-- **2013** 	Finalist (TOP 10) of the 2013 Famelab (http://www.famelab.org) Greece National Science Communication Competition.
+- **2013** 	Finalist (TOP 10) of the 2013 Famelab Greece National Science Communication Competition.
 
 - **2011-2015** 	Doctoral Scholarship from NCSR *Demokritos*.
 
 <a id="6-research-interests"></a>
 
-## 6. Research Interests
+## 6. Research interests
 
 - Nanotechnology-driven light-induced processes for environmental protection and solar energy conversion.
 
@@ -124,7 +124,7 @@ D-18059 Rostock, Germany
 
 ### A. Monographs
 
-1. *Photocatalytic conversion of carbon dioxide into hydrocarbons via modified titania nanomaterials*, N.G. Moustakas, PhD Thesis, Institute of Nanoscience and Nanotechnology, National Center for Scientific Research Demokritos (NSCRD), Athens, Greece, and Department of Chemistry, University of Ioannina, Ioannina, Greece, 2017. (DOI: 10.12681/eadd/40748)
+1. *Photocatalytic conversion of carbon dioxide into hydrocarbons via modified titania nanomaterials*, N.G. Moustakas, PhD Thesis, Institute of Nanoscience and Nanotechnology, National Center for Scientific Research Demokritos (NSCRD), Athens, Greece, and Department of Chemistry, University of Ioannina, Ioannina, Greece, 2017. (DOI: [10.12681/eadd/40748](https://freader.ekt.gr/eadd/index.php?doc=40748&lang=en))
 
 2. *Optimizing materials selection for sustainable packaging design via soft computing techniques*, N.G. Moustakas, Master Thesis, Department of Industrial Management and Technology of University of Piraeus, Piraeus, Greece and Department of Chemical Engineering, National Technical University of Athens (NTUA), Athens, Greece, 2011.
 
@@ -132,11 +132,11 @@ D-18059 Rostock, Germany
 
 ### B. Book chapters
 
-1. *Strategic design and testing of metal oxides in photocatalytic CO<sub>2</sub> reduction*, N.G. Moustakas, Chapter in the book: Material science in photocatalysis, Elsevier. DOI: 10.1016/B978-0-12-821859-4.00019-2
+1. *Strategic design and testing of metal oxides in photocatalytic CO<sub>2</sub> reduction*, N.G. Moustakas, Chapter in the book: Material science in photocatalysis, Elsevier. DOI: [10.1016/B978-0-12-821859-4.00019-2](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780128218594000192?via%3Dihub)
 
 ### C. Publications in international peer-reviewed journals
 
-*(Citations: 1165, h-index: 13, based on Google Scholar accurate as of 23/01/2026)*
+*(Citations: 1165, h-index: 13, based on [Google Scholar](https://scholar.google.com/citations?user=CV_63ZkAAAAJ&hl=el&oi=ao) accurate as of 27/01/2026)*
 
 #### 1. *Influence of light on ad- and desorption processes on titanium dioxide surfaces towards efficient CO<sub>2</sub> photoreduction*, P. Naliwajko, N.G. Moustakas, M. Klahn, T. Peppel, J. Strunk, Physical Chemistry Chemical Physics (PCCP), 27 (2025), 6845-6849. [DOI: 10.1039/D4CP04279D](https://pubs.rsc.org/en/content/articlelanding/2025/cp/d4cp04279d)
 > ###### Abstract: This work addresses the often-overlooked effect of light-induced sorption behavior of CO<sub>2</sub> on powder TiO<sub>2</sub> surfaces, as potential first step to photocatalytic CO<sub>2</sub> activation. These investigations will lead to a more detailed understanding of the light-induced chemistry of CO<sub>2</sub> on TiO<sub>2</sub>, to eventually unravel the CO<sub>2</sub> photoreduction mechanism.
@@ -438,9 +438,9 @@ D-18059 Rostock, Germany
 
 - Finalist (TOP 10) of the 2013 Famelab Greek National Science Communication Competition.
 
-- Winner of the 2014 Famelab Greek National Science Communication Competition (https://www.youtube.com/watch?v=Ls0OLexzU04) and representative of Greece in the International Famelab Competition 2014 in Cheltenham, UK (https://www.youtube.com/watch?v=PLAsRqnQ3YY) .
+- Winner of the [2014 Famelab Greek National Science Communication Competition](https://www.youtube.com/watch?v=Ls0OLexzU04) and representative of Greece in the [International Famelab Competition 2014](https://www.youtube.com/watch?v=PLAsRqnQ3YY) in Cheltenham, UK.
 
-- Participant in the TEDxPatras: Opportunities as a member of the science communication team Science Reactors, city of Patras, Greece (2015). (https://www.youtube.com/watch?v=iKnVelNb2xg)
+- Participant in the [TEDxPatras](https://www.youtube.com/watch?v=iKnVelNb2xg): Opportunities as a member of the science communication team Science Reactors, city of Patras, Greece (2015).
 
 - Received training by (among others) BBC and Deutche Welle (DW) on effective science communication.
 
@@ -450,17 +450,17 @@ D-18059 Rostock, Germany
 
 ## 9. Research and awards related selected interviews in public media
 
-- *Wikipedia for Laboratory Work: Voc4Cat is the First Digital Dictionary for Catalysis Research*, https://nachrichten.idw-online.de/2025/11/17/wikipedia-for-laboratory-work-voc4cat-is-the-first-digital-dictionary-for-catalysis-research
+- *[Wikipedia for Laboratory Work: Voc4Cat is the First Digital Dictionary for Catalysis Research](https://nachrichten.idw-online.de/2025/11/17/wikipedia-for-laboratory-work-voc4cat-is-the-first-digital-dictionary-for-catalysis-research)*.
 
-- *Reducing CO<sub>2</sub>: Using open-source technologies to scale the power of nature*, HardwareX Podcasts, https://www.buzzsprout.com/1869873/episodes/16689340, 2025
+- *[Reducing CO<sub>2</sub>: Using open-source technologies to scale the power of nature](https://www.buzzsprout.com/1869873/episodes/16689340)*, HardwareX Podcasts, 2025
 
-- *What’s up Doc* radio show, RadioReboot web-radio, 2014 (https://bit.ly/3G6wwZD) (in Greek).
+- *[What’s up Doc](https://bit.ly/3G6wwZD)* radio show, RadioReboot web-radio, 2014 (https://bit.ly/3G6wwZD) (in Greek).
 
-- *Deutche Welle web article and interview*, 2014. (https://p.dw.com/p/1Dj8p) (text in Greek, audio in English).
+- *Deutche Welle [web article](https://www.dw.com/el/%CE%B2%CF%81%CE%B1%CE%B2%CE%B5%CE%AF%CE%BF-green-talents-%CF%83%CE%B5-%CE%AD%CE%BB%CE%BB%CE%B7%CE%BD%CE%B1-%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CE%B7%CF%84%CE%AE/a-18048127) and [interview](https://www.dw.com/el/no-title/audio-18050826)*, Green Talents Award 2014. (https://p.dw.com/p/1Dj8p) (text and audio in Greek)
 
-- *Kathimerini newspaper (Interview for the ''K'' magazine of the Kathimerini newspaper)* (https://bit.ly/3dbTemG), 2014 (in Greek).
+- *[Why did Germany awarded Nikos Moustakas?](https://www.kathimerini.gr/life/science/794055/giati-to-germaniko-kratos-vraveyse-ton-niko-moystaka/)* Interview for the ''K'' magazine of the Kathimerini newspaper, 2014 (in Greek).
 
-- *GreenTalents Networking Conference (BMBF)*, 2019 (https://www.youtube.com/watch?v=YBZQcpl51Cw) (in English).
+- *[Interview](https://www.youtube.com/watch?v=YBZQcpl51Cw) for the GreenTalents Networking Conference (BMBF)*, 2019.
 
-- *CO<sub>2</sub>Plus video blog*, Project PROPHECY, Deutsche Gesellschaft für Chemische Technik und Biotechnologie (DECHEMA), 2020 (https://co2-utilization.net/de/co2-medial/) (in English).
+- *[CO<sub>2</sub>Plus video blog](https://co2-utilization.net/de/co2-medial/)*, Project PROPHECY, Deutsche Gesellschaft für Chemische Technik und Biotechnologie (DECHEMA), 2020.
 
