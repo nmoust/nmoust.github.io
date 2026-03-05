@@ -134,9 +134,14 @@ D-18059 Rostock, Germany
 
 1. *Strategic design and testing of metal oxides in photocatalytic CO<sub>2</sub> reduction*, N.G. Moustakas, Chapter in the book: Material science in photocatalysis, Elsevier. DOI: [10.1016/B978-0-12-821859-4.00019-2](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780128218594000192?via%3Dihub)
 
-### C. Publications in international peer-reviewed journals
+### C. Project deliverables
+1. *Prozessentwicklung in der Gas-Feststoff Photokatalyse für die Reduktion von CO<sub>2</sub> (PRODIGY)*, BMBF-Projekt im Rahmen der Fördermaßnahme _CO<sub>2</sub> als nachhaltige Kohlenstoffquelle - Wege zur industriellen Nutzung (CO2-WIN)_, J. Strunk, N. G. Moustakas, T. Peppel, R. Schomäcker, A. Thomas, M. Tasbihi, J. Roeser, M. Wark, M. Weers, H. Vocke, T. Schedel-Niedrig, C. Merschjann, B. Bouabadi, A. Patyk, L. Lazar. 2026. DOI: [10.34657/29561](https://oa.tib.eu/renate/items/a14889f3-caeb-4961-a1fe-5e727d7d22a2)
 
-*(Citations: 1165, h-index: 13, based on [Google Scholar](https://scholar.google.com/citations?user=CV_63ZkAAAAJ&hl=el&oi=ao) accurate as of 27/01/2026)*
+2. *PROzesskonzepte für die PHotokatalytische CO<sub>2</sub>-Reduktion verbunden mit LifE-CYcle-Analysis (PROPHECY)*, Abschlussbericht: _BMBF-Projekt im Rahmen der Fördermaßnahme „Einkopplung regenerativer Energie zur direkten Nutzung von CO<sub>2</sub> in der Produktion chemischer Substanzen_, N. G. Moustakas, T. Peppel, M. Dilla, J. Strunk, 2020. DOI: [10.2314/KXP:1758959789](https://www.tib.eu/de/suchen/id/TIBKAT:1758959789/)
+ 
+### D. Publications in international peer-reviewed journals
+
+*(Citations: 1185, h-index: 13, based on [Google Scholar](https://scholar.google.com/citations?user=CV_63ZkAAAAJ&hl=el&oi=ao) accurate as of 5/3/2026)*
 
 #### 1. *Influence of light on ad- and desorption processes on titanium dioxide surfaces towards efficient CO<sub>2</sub> photoreduction*, P. Naliwajko, N.G. Moustakas, M. Klahn, T. Peppel, J. Strunk, Physical Chemistry Chemical Physics (PCCP), 27 (2025), 6845-6849. [DOI: 10.1039/D4CP04279D](https://pubs.rsc.org/en/content/articlelanding/2025/cp/d4cp04279d)
 > ###### Abstract: This work addresses the often-overlooked effect of light-induced sorption behavior of CO<sub>2</sub> on powder TiO<sub>2</sub> surfaces, as potential first step to photocatalytic CO<sub>2</sub> activation. These investigations will lead to a more detailed understanding of the light-induced chemistry of CO<sub>2</sub> on TiO<sub>2</sub>, to eventually unravel the CO<sub>2</sub> photoreduction mechanism.
@@ -204,7 +209,7 @@ D-18059 Rostock, Germany
 #### 22. *Optical and Dielectric Properties of ZnO - PVA Nanocomposites*, N. Bouropoulos, G.C. Psarras, N. Moustakas, A. Chrissanthakopoulos and S. Baskoutas, Physica Status Solidi A, 205 (2008), 2033-2037. [DOI: 10.1002/pssa.200778863](https://onlinelibrary.wiley.com/doi/10.1002/pssa.200778863)
 > ###### Abstract: Nanocomposites of polyvinyl alcohol and ZnO were prepared using the solution casting method. ZnO nanoparticles with hexagonal wurtzite structure and mean sizes of 59, 82 and 150 nm were prepared by thermal decomposition of zinc acetate dihydrate. The synthesized crystals were characterized by X-ray diffraction (XRD), and scanning electron microscopy (SEM). Optical properties of the nanocomposites were determined using UV–visible absorption spectroscopy. The results showed that all samples appeared near band edge absorption close to the bulk value. Furthermore, broadband dielectric spectroscopy, at ambient temperature, was employed in order to investigate the effect of mean particle size upon interfacial relaxation phenomena. Dielectric data provide evidence that interfacial polarization, which is present in all three nanocomposite films, shifts to higher frequencies and its intensity is decreasing as the mean nanoparticle diameter is also decreasing. Finally, exploiting the Cole–Davidson approach, becomes evident, that interfacial polarization process acquires a more symmetric form, tending to a pure Debye relaxation. 
 
-### D. Work presented in national and international conferences.
+### E. Work presented in national and international conferences.
 
 <a id="2007"></a>
 
