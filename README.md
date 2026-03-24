@@ -143,7 +143,7 @@ D-18059 Rostock, Germany
  
 ### D. Publications in international peer-reviewed journals
 
-*(Citations: 1190, h-index: 13, based on [Google Scholar](https://scholar.google.com/citations?user=CV_63ZkAAAAJ&hl=el&oi=ao) accurate as of 20/3/2026)*
+*(Citations: 1193, h-index: 13, based on [Google Scholar](https://scholar.google.com/citations?user=CV_63ZkAAAAJ&hl=el&oi=ao) accurate as of 24/3/2026)*
 
 #### 1. *Influence of light on ad- and desorption processes on titanium dioxide surfaces towards efficient CO<sub>2</sub> photoreduction*, P. Naliwajko, N.G. Moustakas, M. Klahn, T. Peppel, J. Strunk, Physical Chemistry Chemical Physics (PCCP), 27 (2025), 6845-6849. [DOI: 10.1039/D4CP04279D](https://pubs.rsc.org/en/content/articlelanding/2025/cp/d4cp04279d)
 > ###### Abstract: This work addresses the often-overlooked effect of light-induced sorption behavior of CO<sub>2</sub> on powder TiO<sub>2</sub> surfaces, as potential first step to photocatalytic CO<sub>2</sub> activation. These investigations will lead to a more detailed understanding of the light-induced chemistry of CO<sub>2</sub> on TiO<sub>2</sub>, to eventually unravel the CO<sub>2</sub> photoreduction mechanism.
